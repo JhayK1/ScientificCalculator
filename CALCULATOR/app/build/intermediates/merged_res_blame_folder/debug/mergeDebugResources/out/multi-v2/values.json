@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.alojeremiah.scientificcalculator.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dell\\Documents\\CALCULATOR\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "541",
+                        "endLines": "17",
+                        "endColumns": "12",
+                        "endOffsets": "891"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dell\\Documents\\CALCULATOR\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "6,3,7,5,4,1,2,9,8",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "256,109,304,206,156,16,64,398,351",
+                        "endColumns": "47,46,46,49,49,47,44,44,46",
+                        "endOffsets": "299,151,346,251,201,59,104,438,393"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,150,197,247,297,345,390,435",
+                        "endColumns": "47,46,46,49,49,47,44,44,46",
+                        "endOffsets": "98,145,192,242,292,340,385,430,477"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dell\\Documents\\CALCULATOR\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "58",
+                        "endOffsets": "70"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "482",
+                        "endColumns": "58",
+                        "endOffsets": "536"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+<resources>
+    <color name="calculator_bg">#101419</color>
+    <color name="display_bg">#1B222B</color>
+    <color name="button_digit">#24303C</color>
+    <color name="button_operator">#396B6F</color>
+    <color name="button_function">#38465A</color>
+    <color name="button_danger">#8A3A46</color>
+    <color name="button_equal">#D99A3D</color>
+    <color name="text_primary">#F6F7F9</color>
+    <color name="text_muted">#B9C0C9</color>
+</resources>

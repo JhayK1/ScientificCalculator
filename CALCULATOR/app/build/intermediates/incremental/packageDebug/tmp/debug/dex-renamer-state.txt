@@ -1,0 +1,7 @@
+#Thu Jun 18 19:03:19 WAT 2026
+base.0=C\:\\Users\\dell\\Documents\\CALCULATOR\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=C\:\\Users\\dell\\Documents\\CALCULATOR\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
+path.0=0/classes.dex
+path.1=10/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

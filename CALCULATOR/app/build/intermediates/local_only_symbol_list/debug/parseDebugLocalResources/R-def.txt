@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+color button_danger
+color button_digit
+color button_equal
+color button_function
+color button_operator
+color calculator_bg
+color display_bg
+color text_muted
+color text_primary
+drawable ic_launcher
+string app_name
+style AppTheme

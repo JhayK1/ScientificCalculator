@@ -1,0 +1,12 @@
+com.alojeremiah.scientificcalculator:style/AppTheme = 0x7f040000
+com.alojeremiah.scientificcalculator:color/button_equal = 0x7f010002
+com.alojeremiah.scientificcalculator:drawable/ic_launcher = 0x7f020000
+com.alojeremiah.scientificcalculator:color/text_primary = 0x7f010008
+com.alojeremiah.scientificcalculator:string/app_name = 0x7f030000
+com.alojeremiah.scientificcalculator:color/display_bg = 0x7f010006
+com.alojeremiah.scientificcalculator:color/text_muted = 0x7f010007
+com.alojeremiah.scientificcalculator:color/calculator_bg = 0x7f010005
+com.alojeremiah.scientificcalculator:color/button_operator = 0x7f010004
+com.alojeremiah.scientificcalculator:color/button_function = 0x7f010003
+com.alojeremiah.scientificcalculator:color/button_digit = 0x7f010001
+com.alojeremiah.scientificcalculator:color/button_danger = 0x7f010000
